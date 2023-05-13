@@ -6,10 +6,6 @@ body{
 }
 h2{
     color: coral;
-
-}
-p{
-    color: coral;
 }
 footer{
     color: black;
@@ -55,5 +51,32 @@ ul li{
     height: 600px;
 }
 .mi-boton{
-background-color: rgba(65, 68, 66, 0.281);
+background-color: rgba(255, 255, 255, 0.884);
+}
+.festivales{
+    color: rgb(245, 75, 8);
+}
+.tipografia-links{
+    font-size: x-large
+}
+.boton-compra{
+    background-color: rgb(41, 139, 172);
+    border-color: rgb(68, 17, 150);
+    color: rgb(255, 255, 255);
+}
+.descripcion
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.color-barra{
+    background-color: rgb(12, 40, 77) !important ;
+}
+.color-letra-barra{
+    color: rgb(221, 198, 198) !important ;
+}
+.espaciar{
+    line-height: 2.5
+}
+.espaciar{
+    letter-spacing: 0.2vw
 }
