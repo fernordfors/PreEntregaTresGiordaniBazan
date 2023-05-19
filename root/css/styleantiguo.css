@@ -1,0 +1,82 @@
+h1{
+    color: black;
+}
+body{
+    background-image: linear-gradient(to top left, grey, white );
+}
+h2{
+    color: coral;
+}
+footer{
+    color: black;
+}
+h3{
+    color: black;
+}
+ul li{
+    color: rgb(52, 24, 151);
+    list-style: none;
+    
+}
+.img2{
+    width: 500;
+    height: 700px;
+
+}
+.sub{
+    color: rgb(204, 79, 30);
+}
+.img3{
+    width: 500px;
+    height: 400px;
+}
+.img4{
+    width: 500px;
+    height: 650px;
+}
+.img5{
+    width: 500px;
+    height: 700px;
+}
+.img6{
+    width: 500px;
+    height: 400px;
+}
+.img7{
+    width: 500px;
+    height: 600px;
+}
+.img8{
+    width: 500px;
+    height: 600px;
+}
+.mi-boton{
+background-color: rgba(255, 255, 255, 0.884);
+}
+.festivales{
+    color: rgb(245, 75, 8);
+}
+.tipografia-links{
+    font-size: x-large
+}
+.boton-compra{
+    background-color: rgb(41, 139, 172);
+    border-color: rgb(68, 17, 150);
+    color: rgb(255, 255, 255);
+}
+.descripcion
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.color-barra{
+    background-color: rgb(12, 40, 77) !important ;
+}
+.color-letra-barra{
+    color: rgb(221, 198, 198) !important ;
+}
+.espaciar{
+    line-height: 2.5
+}
+.espaciar{
+    letter-spacing: 0.2vw
+}
