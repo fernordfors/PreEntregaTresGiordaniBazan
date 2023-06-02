@@ -1,11 +1,11 @@
 header{
     .color-barra{
-        background-color: rgb(12, 40, 77);
+        background-color: map-get($coloresheader, azul-c);
     }
     .color-letra-barra{
-        color: rgb(221, 198, 198);
+        color: map-get($coloresheader, blanco-raro);
     }
     .mi-boton{
-        background-color: rgba(255, 255, 255, 0.884);
+        background-color: map-get($coloresboton, blanco-c);
     }
 }

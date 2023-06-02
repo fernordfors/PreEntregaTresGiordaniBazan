@@ -5,7 +5,7 @@ header .color-letra-barra {
   color: rgb(221, 198, 198);
 }
 header .mi-boton {
-  background-color: rgba(255, 255, 255, 0.884);
+  background-color: rgb(255, 255, 255);
 }
 
 body {
@@ -36,6 +36,10 @@ body .boton-compra {
   background-color: rgb(41, 139, 172);
   border-color: rgb(68, 17, 150);
   color: rgb(255, 255, 255);
+  transition: all 1.5s;
+}
+body .boton-compra:hover {
+  transform: scale(1.2);
 }
 body .descripcion {
   font-family: "Montserrat", sans-serif;
@@ -43,6 +47,9 @@ body .descripcion {
 body .espaciar {
   line-height: 2.5;
   letter-spacing: 0.2vw;
+}
+body .padding-body {
+  padding: 30px;
 }
 
 footer {
